@@ -1,0 +1,42 @@
+{
+  "RepositoryName": "Thành Định",
+  "RepositoryDescription": "Tweaks made by me Thành Định",
+  "RepositoryAuthor": "Thành Định",
+  "RepositoryIcon": "https://raw.githubusercontent.com/Thanhdinh28689/Dinh28689/main/17370205-E954-4879-BD5F-6691F297D7A2.jpeg",
+  "RepositoryWebsite": "",
+  "Default": {
+    "HeaderImage": "",
+    "Author": {
+      "Label": "Thành Định",
+      "Links": [
+        {
+          "Label": "Facebook",
+          "Link": "https://www.facebook.com/duong.alexander?mibextid=2JQ9oc"
+        }
+      ]
+    },
+    "ViewCount": true
+  },
+  "RepositoryContents": [
+    {
+      "Name": "Lobster Font",
+      "Description": "Font",
+      "Category": "Springboard",
+      "Caption": "Font",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.1.2",
+      "Icon": "",
+      "Screenshot": [
+
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/Thanhdinh28689/Dinh28689/raw/main/Lobter/com.lobster.font.misaka",
+          "Description": "First tweak"
+        }
+      ],
+      "PackageID": "com.lobster.font"
+    }
+  ]
+}
