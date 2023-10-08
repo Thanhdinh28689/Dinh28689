@@ -56,7 +56,7 @@
           "Description": "First tweak"
         }
       ],
-      "PackageID": "com.epos.classicsettings"
+      "PackageID": "com.dobabaophuc.lsuisharingan"
     },
     {
       "Name": " Sharingan Lock",
@@ -77,6 +77,26 @@
         }
       ],
       "PackageID": "com.dobabaophuc.sharinganlock"
+    },
+    {
+      "Name": "Classic Settings",
+      "Description": "Setting",
+      "Category": "Settings",
+      "Caption": "Settings",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.1.2",
+      "Icon": "",
+      "Screenshot": [
+
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/Thanhdinh28689/Dinh28689/raw/main/Lobter/com.epos.classicsettings.misaka",
+          "Description": "First tweak"
+        }
+      ],
+      "PackageID": "com.epos.classicsettings"
     }
   ]
 }
