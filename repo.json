@@ -72,11 +72,11 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://github.com/Thanhdinh28689/Dinh28689/raw/main/Lobter/com.dobabaophuc.sharinganlock.misaka",
+          "Package": "https://github.com/Thanhdinh28689/Dinh28689/raw/main/LockSharingan/lock.sharingan.thanhdinh.misaka",
           "Description": "First tweak"
         }
       ],
-      "PackageID": "com.dobabaophuc.sharinganlock"
+      "PackageID": "lock.sharingan.thanhdinh"
     },
     {
       "Name": "Classic Settings",
