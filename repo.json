@@ -119,7 +119,7 @@
       "PackageID": "com.ringtonescustumer.hamt"
     },
     {
-      "Name": "Customize Lock Screen",
+      "Name": "Customize Font",
       "Description": "Setting",
       "Category": "Settings",
       "Caption": "Settings",
@@ -132,11 +132,11 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://github.com/Thanhdinh28689/Dinh28689/raw/main/Lobter/com.cggio.curtomizelockscreen.misaka",
+          "Package": "https://github.com/Thanhdinh28689/Dinh28689/raw/main/CustomizeFont/Customize Font 15.misaka",
           "Description": "First tweak"
         }
       ],
-      "PackageID": "com.cggio.curtomizelockscreen"
+      "PackageID": "com.cggio.customizefont"
     },
     {
       "Name": "Springboard CL",
