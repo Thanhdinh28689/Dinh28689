@@ -119,7 +119,7 @@
       "PackageID": "com.ringtonescustumer.hamt"
     },
     {
-      "Name": "Customize Font",
+      "Name": "Customize Font 15",
       "Description": "Setting",
       "Category": "Settings",
       "Caption": "Settings",
@@ -132,7 +132,7 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://github.com/Thanhdinh28689/Dinh28689/raw/main/CustomizeFont/customize.font.misaka",
+          "Package": "https://github.com/Thanhdinh28689/Dinh28689/raw/main/font15/com.customize.font.misaka",
           "Description": "First tweak"
         }
       ],
