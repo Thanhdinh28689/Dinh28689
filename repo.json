@@ -139,6 +139,26 @@
       "PackageID": "com.cggio.customizefont"
     },
     {
+      "Name": "CútomizeLockScreen",
+      "Description": "Setting",
+      "Category": "Settings",
+      "Caption": "Settings",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.1.2",
+      "Icon": "",
+      "Screenshot": [
+
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/Thanhdinh28689/Dinh28689/raw/main/CustomizeLockScreen/Customize Lock Screen.misaka",
+          "Description": "First tweak"
+        }
+      ],
+      "PackageID": "com.cggio.customizelockscreen"
+    },
+    {
       "Name": "Springboard CL",
       "Description": "Setting",
       "Category": "Settings",
