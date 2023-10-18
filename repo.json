@@ -139,7 +139,7 @@
       "PackageID": "com.cggio.customizefont"
     },
     {
-      "Name": "CútomizeLockScreen",
+      "Name": "Customize Lock Screen",
       "Description": "Setting",
       "Category": "Settings",
       "Caption": "Settings",
@@ -152,7 +152,7 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://github.com/Thanhdinh28689/Dinh28689/raw/main/CustomizeLockScreen/Customize Lock Screen.misaka",
+          "Package": "https://github.com/Thanhdinh28689/Dinh28689/raw/main/CustomizeLockScreen/com.customize.lock.screen.misaka",
           "Description": "First tweak"
         }
       ],
